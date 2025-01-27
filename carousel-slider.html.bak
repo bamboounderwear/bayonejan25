@@ -30,7 +30,7 @@
 
 </head>
 
-<body>
+<body class="crev-portfolio">
 
     <div id="siteWrapper">
 
@@ -74,7 +74,7 @@
 
         <!-- ==================== Start Navgition ==================== -->
 
-        <div id="navi" class="topnav">
+            <div id="navi" class="topnav blur bord-thin-bottom">
             <div class="container">
                 <div class="logo icon-img-100">
                     <a href="#0"><img src="assets/imgs/logo-light.png" alt=""></a>
